@@ -10,7 +10,8 @@ Features
 Load the application - take the test and try answer as many questions correctly as possible. After finishing enter a name to store your score to local storage.
 
 ## Screenshot
-
+<img src="./screencapture.png" alt="web capture" />
 
 ## Link 
+https://princeultim8.github.io/Code-Quiz/
 
